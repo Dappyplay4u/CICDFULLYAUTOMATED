@@ -158,7 +158,7 @@
 
     
 6)  #### Configure system:
-    - Click on Manage Jenkins --> Global Tool Configuration
+    - Click on Manage Jenkins --> configure system
 
         1)  - Go to section SonarQube servers --> **Add SonarQube **
             - Name: **SonarQube**
